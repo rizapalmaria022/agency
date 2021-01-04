@@ -21,12 +21,23 @@
      "PostCode": "Sample Post"
     },
      {
-    "id": 2,
+    "id": 3,
     "IntermediaryNumber":43,
     "AgencyId":"CL-63",
     "Name":"Agency-Dach, Brown and Weissnat",
     "AddressLine1":"869 Beahan Stream\nEast Jakobberg, NC 82289-8533",
     "AddressLine2":"Suite 068","City":"Hettingerside","PostCode":"38817-5252", 
+     "City": "Sample City", 
+     "PostCode": "Sample Post"
+       
+    }, 
+    {
+    "id": 4,
+    "IntermediaryNumber":43,
+    "AgencyId":"CL-1",
+    "Name":"Agency Sample",
+    "AddressLine1":"Sample Address line 1",
+    "AddressLine2":"Sample Address line 2", 
      "City": "Sample City", 
      "PostCode": "Sample Post"
        
