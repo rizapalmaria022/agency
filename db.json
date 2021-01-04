@@ -42,5 +42,27 @@
      "PostCode": "Sample Post"
        
     }
+  ], 
+  "supplier" : [
+    {
+      "CompanyNo" : "10027653", 
+      "AgencyIds" : "CL-28"
+     },
+     {
+      "CompanyNo" : "10020171", 
+      "AgencyIds" : "CL-24"
+     },
+     {
+      "CompanyNo" : "10020650", 
+      "AgencyIds" : "CL-28"
+     },
+     {
+      "CompanyNo" : "10027445", 
+      "AgencyIds" : "CL-24"
+     }, {
+      "CompanyNo" : "10022926", 
+      "AgencyIds" : "CL-1"
+     }
+    
   ]
 }
