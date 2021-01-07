@@ -68,6 +68,7 @@
   "payslips" : [
     {
       "PayslipId" : 1, 
+      "CompanyNumber": "12111119",
       "AgencyId" : "CL-39",
       "FirstName" : "Sample", 
       "SurName" : " Sample",
