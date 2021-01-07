@@ -73,7 +73,7 @@
       "SurName" : " Sample",
       "TaxWeek": "Sample Tax", 
       "TaxYear": "2021", 
-      "EmployeeReference" "Sample Reference", 
+      "EmployeeReference":"Sample Reference", 
       "TaxCode": "0000", 
       "Week1Month1": "January", 
       "NiNumber" : "11111",
