@@ -64,5 +64,26 @@
       "AgencyIds" : "CL-1"
      }
     
+  ], 
+  "payslips" : [
+    {
+      "PayslipId" : 1, 
+      "AgencyId" : "CL-39",
+      "FirstName" : "Sample", 
+      "SurName" : " Sample",
+      "TaxWeek": "Sample Tax", 
+      "TaxYear": "2021", 
+      "EmployeeReference" "Sample Reference", 
+      "TaxCode": "0000", 
+      "Week1Month1": "January", 
+      "NiNumber" : "11111",
+      "NiCode": "00000", 
+      "Gross":"AAA", 
+      "TaxableGross" : "sample",
+      "Tax": "sashkhh", 
+      "EmployeeNi" :"000000", 
+      "EmployeeNi":"00000", 
+      "Net" : "ADFJH000"
+    }
   ]
 }
